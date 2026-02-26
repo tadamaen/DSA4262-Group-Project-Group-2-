@@ -1,4 +1,4 @@
-# DSA4262-Group-Project-Group-2
+# DSA4262 Group Project AY25/26 Semester 2 (Group 2)
 
 This project investigates depression among students at the National University of Singapore (NUS) through a multi-layered data analysis approach. Our goal is to better understand depression prevalence, identify key contributing factors and explore how counselling session intervals may influence recovery trajectories. By integrating structured data (eg. survey-based depression scores, demographic attributes, counselling timelines) with unstructured raw text from students/patients experiencing depressive symptoms, we aim to generate actionable insights that can support evidence-based mental health interventions within the university.
 
