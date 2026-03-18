@@ -1,0 +1,9 @@
+# Ignore secrets
+.env
+
+# Ignore cached files
+**/__pycache__/
+**/.ipynb_checkpoints/
+
+# Ignore venv
+venv/
