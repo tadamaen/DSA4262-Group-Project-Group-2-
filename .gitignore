@@ -5,5 +5,10 @@
 **/__pycache__/
 **/.ipynb_checkpoints/
 
+# Ignore processed data for fine-tuning
+# Can be viewed on Kaggle at
+# https://www.kaggle.com/datasets/bingxuanchia/dsa4262-finetuning-exploration
+data/processed/
+
 # Ignore venv
 venv/
